@@ -9,3 +9,7 @@ Another function of an OS is security.
 The OS creates security by using several different methods.
 One method that is used is password protection.
 Password protection helps prevent unauthorized users from accessing a systems data.
+
+A third OS function is memory management.
+The OS manages the Primary Memory or Main Memory. 
+Main memory is made up of a large array of bytes or words where each byte or word is assigned a certain address.

@@ -1,0 +1,6 @@
+Operating System Functions
+
+One function of an Operating System is to monitor and control the systems perfomance. 
+The OS monitors the systems status in order to help performance.
+It does this by recording the response time between a sercive request and the systems response.
+This helps provide important information needed for troubleshooting potential issues.

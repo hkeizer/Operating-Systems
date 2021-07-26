@@ -4,3 +4,8 @@ One function of an Operating System is to monitor and control the systems perfom
 The OS monitors the systems status in order to help performance.
 It does this by recording the response time between a sercive request and the systems response.
 This helps provide important information needed for troubleshooting potential issues.
+
+Another function of an OS is security.
+The OS creates security by using several different methods.
+One method that is used is password protection.
+Password protection helps prevent unauthorized users from accessing a systems data.
